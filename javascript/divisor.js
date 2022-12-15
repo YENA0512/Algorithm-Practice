@@ -1,4 +1,4 @@
-// 프로그래머스 Lv1.약수의합
+// 프로그래머스 Lv1.약수의 합
 
 function solution(n) {
   var answer = [];
